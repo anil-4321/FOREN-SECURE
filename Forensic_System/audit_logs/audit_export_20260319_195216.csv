@@ -1,0 +1,9 @@
+timestamp,username,action,details
+2026-03-19 19:52:13.296024,AnilPandey_AI,EXPORT_EVIDENCE_MANIFEST,C:\Users\ap967\OneDrive\Desktop\forensicAI_Project\Forensic_System\cases\CASE_6D8E72CA\CASE_6D8E72CA_evidence_manifest.json
+2026-03-19 19:52:04.182125,AnilPandey_AI,EXPORT_EVIDENCE_MANIFEST,C:\Users\ap967\OneDrive\Desktop\forensicAI_Project\Forensic_System\cases\CASE_6D8E72CA\CASE_6D8E72CA_evidence_manifest.json
+2026-03-19 19:52:00.742776,AnilPandey_AI,VERIFY_EVIDENCE,ok=1 bad=0 missing=0 sig_bad=0
+2026-03-19 19:51:47.604781,AnilPandey_AI,VIEW_EVIDENCE_LIST,CASE_6D8E72CA
+2026-03-19 19:51:31.634323,AnilPandey_AI,STORE_EVIDENCE,CASE_6D8E72CA WhatsApp Image 2026-03-18 at 8.09.25 PM.jpeg sha256=5c67b348eccfe91d
+2026-03-19 19:51:16.692379,AnilPandey_AI,SELECT_CASE,CASE_6D8E72CA
+2026-03-19 19:51:07.833019,AnilPandey_AI,CREATE_CASE,CASE_6D8E72CA title=cyber crime
+2026-03-19 19:49:25.799706,AnilPandey_AI,LOGIN_SUCCESS,role=Admin

@@ -1,0 +1,21 @@
+{
+  "project_title": "AI-Driven Behavioral Intelligence & Predictive Risk Platform",
+  "system_name": "AI-Driven Behavioral Intelligence & Predictive Risk Platform \u2014 FORENSICORE (Enhanced Final Edition)",
+  "case_id": "CASE_6D8E72CA",
+  "generated_at": "2026-03-19 19:52:13.294883",
+  "generated_by": "AnilPandey_AI",
+  "evidence_count": 1,
+  "evidence": [
+    {
+      "filename": "WhatsApp Image 2026-03-18 at 8.09.25 PM.jpeg",
+      "filepath": "C:\\Users\\ap967\\OneDrive\\Desktop\\forensicAI_Project\\Forensic_System\\cases\\CASE_6D8E72CA\\WhatsApp Image 2026-03-18 at 8.09.25 PM.jpeg",
+      "sha256": "5c67b348eccfe91d9209385d143286f9d608b42ef7e8f0d62562b5ed06ac5777",
+      "md5": "c5316a038cdea6e86a5ca525ff2a6201",
+      "size_bytes": 64171,
+      "added_at": "2026-03-19 19:51:31.632962",
+      "added_by": "AnilPandey_AI",
+      "evidence_signature": "414a1e4cba4d5e49658d65bc582b11cdbd06582312545d1730c0c2ae16901876"
+    }
+  ],
+  "manifest_signature": "432e2e10c0677de0775fcdce6930aa4054a88ec142c6c136a135fc8a08f7ecc3"
+}
